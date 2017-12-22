@@ -3,7 +3,7 @@ Overview
 
 Dual Algorithmic Oscillator is a synthesizer module for the Buchla format, developed and manufactured by [Grayscale](http://grayscale.info/). It is based on [Braids](https://mutable-instruments.net/modules/braids/) by [Mutable Instruments](https://mutable-instruments.net/modules/braids/) and uses the same firmware as the original. This project has been developed with the permission of Olivier Gillet, founder of Mutable Instruments.
 
-Visit [http://grayscale.info/](http://grayscale.info/) for more information.
+Visit [http://grayscale.info](http://grayscale.info/) for more information.
 
 License
 =======
